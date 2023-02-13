@@ -95,7 +95,7 @@ After AlexNet, several newer models were invented such as VGGNet, GoogleNet and 
 
 [AlexNet Wiki](https://en.wikipedia.org/wiki/AlexNet)
 
-[Alex Krizhevsky et.al](https://medium.com/r/?url=https%3A%2F%2Fpapers.nips.cc%2Fpaper%2F2012%2Fhash%2Fc399862d3b9d6b76c8436e924a68c45b-Abstract.html)
+[Alex Krizhevsky et.al](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
 
 [Dropout](https://medium.com/@nikhil__xb/dropout-be686db529ec)
 
