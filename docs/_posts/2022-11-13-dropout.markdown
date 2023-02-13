@@ -1,10 +1,9 @@
 ---
 layout: post
+comments: true
 title: "Dropout"
 excerpt: "Explore distinctly to learn differently"
 date: 2022-11-13 19:44:03 +0530
-comments: True
-categories: jekyll update
 ---
 This post is about a simple and yet powerful approach known as Dropout implemented in neural net for reducing overfitting.
 

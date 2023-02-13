@@ -1,10 +1,9 @@
 ---
 layout: post
+comments: true
 title: "AlexNet"
 excerpt: "Summary of Alexnet"
 date: 2023-02-10 02:30:03 +0530
-comments: true
-categories: jekyll update
 ---
 This article contains a brief explanation of the paper ImageNet Classification with Deep Convolutional Neural Networks by *Alex Krizhevsky et.al* . The paper discusses how the depth of the network can give improved results on datasets when implemented through GPUs.
 
