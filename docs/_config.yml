@@ -8,6 +8,7 @@ twitter_username: nikhil__xb
 github_username:  nikhil-xb
 
 # Build settings
+theme: minima
 markdown: kramdown
 permalink: pretty
 
@@ -16,5 +17,10 @@ kramdown:
   input: GFM
   auto_ids: true
   syntax_highlighter: rouge
+  
 plugins:
-  - jekyll-feed
+  - jekyll-seo-tag
+  
+
+
+

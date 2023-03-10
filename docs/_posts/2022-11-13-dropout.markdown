@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+# comments: true
 title: "Dropout"
 excerpt: "Explore distinctly to learn differently"
 date: 2022-11-13 19:44:03 +0530
